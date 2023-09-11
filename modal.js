@@ -266,5 +266,4 @@ function Erase(){
     }
   });
 }
-
-// launchModal()
+  
